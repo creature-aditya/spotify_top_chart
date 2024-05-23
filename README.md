@@ -1,4 +1,4 @@
-# spotify_top_chart
+# spotify_top_chart ETL
 Spotify top chart is a PySpark based project in which spotify dataset with 25 attributes is taken in analysis directly from AWS S3 location. The data is checked for null values, duplicates and other anomalies. After cleaning the data, major insights attributions are marked by which we are about to operate on dataset.
 
 As of now, we are taking 3 entities:
